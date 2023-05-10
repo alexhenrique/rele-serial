@@ -10,6 +10,13 @@ Este repositório contém arquivos CADSoft Eagle para a confecção de uma placa
 
 ## Como Utilizar
 
+
+![Esquemático do circuito](src/schematic.png)
+
+### Layout da placa
+
+![Layout da placa](src/placa.png)
+
 Os arquivos PDF fornecidos neste repositório são apenas para visualização e impressão. Se você deseja modificar o design da placa ou o esquemático, você precisará do software CADSoft Eagle. Você pode baixar uma versão gratuita do software no [site oficial da Autodesk](https://www.autodesk.com/products/eagle/free-download).
 
 Uma vez que você tenha o software CADSoft Eagle instalado, você pode abrir os arquivos `.sch` e `.brd` para modificar o esquemático e o design da placa, respectivamente.
